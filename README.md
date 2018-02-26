@@ -2,7 +2,7 @@ What Is This?
 -------------
 
 This is a program that utilities object oriented programing (OOP) with classes
-and class inheritance. There is one super-class and two sub-classes (Shirt and socks)
+and class inheritance. There is one super-class and three sub-classes (Shirt, Jacket, and Socks)
 
 -----------------------
 The Wardrobe class
