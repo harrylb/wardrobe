@@ -45,9 +45,3 @@ getSize()
 -Returns size of the jacket. Can be the following: small, medium, large
 getBrand()
 -Returns the brand specific to that jacket. Ex. Gucci
---------------------------
-Questions?
-
-If you have any questions/issues with this program, contact me:
-hliddibrown19@students.polytechnic.org
-
